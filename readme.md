@@ -1,5 +1,6 @@
 
 ![Logo](https://i.imgur.com/JTB841z.png)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 # Program Inventori
 
 Program inventori sederhana dibuat menggunakan bahasa permograman Python dan Tkinter untuk GUI nya (Graphcial User Interface). Saya buat program ini bertujuan untuk membantu anda lebih mudah dalam mengelola inventori yang anda miliki di Toko, Gudang, dll. Semoga bermanfaat.
