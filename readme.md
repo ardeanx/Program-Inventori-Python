@@ -1,3 +1,4 @@
+<p><a href="https://www.buymeacoffee.com/ardean"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ardean" /></a><a href="https://ko-fi.com/ardean"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ardean" /></a></p><br><br>
 
 ![Logo](https://i.imgur.com/JTB841z.png)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
